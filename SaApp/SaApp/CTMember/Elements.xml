@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x0100360CF6E20D3E41169300F0AC37BBC4F3" Name="CTMember" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{29082a0e-7e1f-4530-9548-64eeadc110c1}" DisplayName="SC Member ID" Required="FALSE" Name="SCMemberID" />
+      <FieldRef ID="{cd10bf72-69bf-4f25-a492-df32083b41b1}" DisplayName="SC Member Name" Required="FALSE" Name="SCMemberName" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

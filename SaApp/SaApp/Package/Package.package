@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d070c621-77c7-4837-ae36-b362043ec1f3" 
+        solutionId="d070c621-77c7-4837-ae36-b362043ec1f3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SaApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="77473898-e432-4e51-8a9a-a5cec8645e5a" />
+  </features>
+</package>
